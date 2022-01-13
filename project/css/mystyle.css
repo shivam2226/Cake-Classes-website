@@ -1,0 +1,116 @@
+.left{
+    position: absolute;
+    width:200px;
+    height: 140px;
+    display: inline-block;
+    top: 25px;
+}
+.middle{
+    margin: 15px auto;
+    width: 580px;
+    display: block;
+    text-align: center;
+}
+.right{
+    position: absolute;
+    width: 200px;
+    display: inline-block;
+    right: 50px;
+    top: 5px;
+    text-align: center;
+    line-height: 200%;
+}
+.left img{
+    width: 105px;
+    margin: auto;
+    display: block;
+}
+h2{
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Luxurious Roman', cursive;
+    color: red;
+}
+h1{
+    margin: auto;
+    text-align: center;
+    color: navy;
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+.navbar{
+    margin: 6px auto;
+    display: block;
+    width: 600px;
+    background-color: rgba(0, 0, 0, 0.9);
+    text-align: center;
+}
+.navbar li{
+    display: inline-block;
+    padding: 15px;
+    font-size: 20px;
+}
+.navbar li a{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-family: cursive;
+    text-align: center;
+    margin: auto;
+}
+.navbar li a:hover{
+    color: red;
+    background-color: white;
+}
+.right dl dt,dd{
+    font-size: 17px;
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+    color: saddlebrown;
+} 
+.container{
+    border: 2px solid darkslategrey;
+    display: inline-block;
+    margin: 100px 20px;
+    padding: 40px 20px;
+    width: 43%;
+    height: 320px;
+}
+.container h2{
+    color: red;
+    font-size: 20px;
+}
+.class-form{
+    margin: 3px auto;
+    padding: 6px;
+    text-align: center;
+}
+.btn{
+    text-align: center;
+    margin: auto;
+    display: block;
+    cursor: pointer;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: green;
+    color: ivory;
+}
+.class-form input{
+    width: 200px;
+    text-align: center;
+    border-radius: 7px;
+    font-size: medium;
+}
+.work img{
+    width: 300px;
+    height: 330px;
+    position: relative;
+    display: inline-block;
+    left: 420px;
+    top: 100px;
+    filter: invert(0.1);
+}
+*{
+    box-sizing: border-box;
+}
