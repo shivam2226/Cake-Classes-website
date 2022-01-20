@@ -1,3 +1,3 @@
-### Cake-Classes-website
+### Cake-Classes-Website
 
-** THIS IS AN DUMMY WEBSITE **
+**HIS IS AN DUMMY WEBSITE
