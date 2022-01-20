@@ -1,3 +1,3 @@
-###3Cake-Classes-website###
+###3Cake-Classes-website
 
 **THIS IS AN DUMMY WEBSITE
